@@ -1,0 +1,21 @@
+
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+}
+
+
+.form {
+    margin-top: 50px;
+    width: 450px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+

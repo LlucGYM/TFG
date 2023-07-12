@@ -1,0 +1,38 @@
+.Tiquet{
+    border: #343a40 1px solid;
+    border-radius: 10px;
+    margin: 10px;
+    vertical-align: center;
+    background-color: orangered;
+}
+.Pagat{
+    background-color: greenyellow;
+}
+
+.Tiquet .col {
+    margin: auto;
+}
+.centrado{
+    margin: 10px;
+    text-align:center;
+}
+.head p{
+    font-weight: 700;
+}
+
+.Tiquet button{
+    margin: auto;
+}
+
+
+@media (max-width: 400px) {
+  .centrado {
+      font-size: 12px;
+  }
+    .Tiquet button{
+        transform: scale(0.7);
+    }
+    .head p {
+        font-size: 12px;
+    }
+}

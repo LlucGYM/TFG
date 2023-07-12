@@ -1,0 +1,22 @@
+.PopupAlert{
+    padding: 20px;
+    background-color: #343a40;
+    color: white;
+    height: 100%;
+}
+
+
+
+.PopupAlert button {
+    align-items: center;
+    transform:scale(0.8);
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.PopupAlert .PopupTitle{
+    align-items: center;
+    padding-top: 30px;
+    margin: unset;
+    font-size: 20px;
+    font-weight: unset;
+}

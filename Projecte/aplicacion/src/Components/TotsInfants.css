@@ -1,0 +1,52 @@
+
+.btn-link:hover{
+    color: #ce33ff;
+}
+.btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.infantAcordeon{
+    border-radius: 20px;
+    border: #343a40 1px solid;
+    width: auto;
+}
+.infantAcordeon .collapseALL{
+    max-height: 40px;
+
+}
+.infantAcordeon .collapseALL p{
+    text-align: left;
+    font-size: 15px;
+    margin: 0;
+    color: white;
+}
+.TitleCurs h2{
+    font-size: 25px;
+    border-bottom: #343a40 1px solid;
+    margin-top: 20px;
+}
+.NomInfant{
+    color: white;
+    max-height: 35px;
+}
+.NomInfant p{
+    font-size: 15px;
+}
+@media (max-width: 500px) {
+    .NomInfant p{
+        font-size: 12px;
+    }
+    .accordion .collapseALL p{
+        text-align: left;
+        font-size: 11px;
+        margin: 0;
+    }
+    .TitleCursDia h2{
+        font-size: 16px;
+    }
+    .fa-chevron-right {
+        transform: scale(0.5);
+    }
+
+}

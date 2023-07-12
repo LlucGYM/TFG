@@ -1,0 +1,67 @@
+.Mes{
+margin-bottom: 100px;
+}
+
+.Mes table{
+margin: auto;
+}
+
+.Mes table th{
+    text-align: center;
+    border-bottom: #343a40 2px solid;
+}
+
+.Mes table th{
+
+    margin-bottom: 10px;
+}
+
+.Mes label{
+    width: 50px;
+}
+.Mes .activation{
+    border: aquamarine 2px solid;
+    color: aquamarine;
+    background: #343a40;
+}
+.Mes .row{
+    justify-content: center;
+}
+.Mes .titolMes{
+    background: #343a40;
+    border: #343a40 1px solid;
+    border-radius: 10px;
+    width: 200px;
+    color: white;
+    text-align: center;
+}
+
+.Mes .day{
+    width: 50px;
+}
+
+@media (max-width: 400px) {
+    .Mes .day{
+        width: 30px;
+        font-size: 12px;
+    }
+    .Mes table th{
+       font-size: 12px;
+    }
+    .Mes h2{
+        font-size: 15px;
+    }
+    .Mes .titolMes{
+        width: 100px;
+        text-align: center;
+    }
+    .Mes .margin{
+        margin-bottom: 20px;
+    }
+    .Mes h5{
+        font-size: 15px;
+    }
+    .Mes li{
+        font-size: 12px;
+    }
+}

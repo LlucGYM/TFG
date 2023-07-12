@@ -1,0 +1,30 @@
+.PopupCompra{
+    color: white;
+    border: #282c34;
+}
+.PopupCompra table td{
+    color: white;
+    vertical-align: center;
+}
+
+.Dia p{
+    vertical-align: center;
+}
+.ButtonName{
+    align-items: center;
+}
+
+@media (max-width: 400px) {
+    .PopupCompra button{
+        transform: scale(0.8);
+    }
+    .PopupCompra{
+        font-size: 14px;
+    }
+    .PopupCompra label{
+        transform: scale(0.8);
+    }
+    .PopupCompra h5{
+        font-size: 20px;
+    }
+}

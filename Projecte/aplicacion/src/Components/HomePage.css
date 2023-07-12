@@ -1,0 +1,50 @@
+.service{
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 200px;
+}
+
+.lista-tiquets{
+    font-weight: bold;
+}
+
+.section-heading h2{
+    margin-top: 50px;
+    border-bottom: #343a40 2px solid;
+
+}
+.section-heading h3{
+    margin-top: 50px;
+    border-bottom: #343a40 1px solid;
+}
+.section-heading p{
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.InfantButton{
+    margin-bottom: 20px;
+}
+
+@media (max-width: 500px) {
+    h1{
+        font-size: 22px;
+    }
+
+    .section-heading {
+        margin-top: 20px;
+    }
+    .section-heading h2{
+        font-size: 25px;
+    }
+    .section-heading h3{
+        font-size: 20px;
+
+    }
+    .section-heading p{
+       font-size: 12px;
+    }
+    .lista-tiquets {
+        font-size: 12px;
+    }
+}

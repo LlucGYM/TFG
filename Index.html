@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <title>FastTiquets</title>
+    <style>
+        body{
+            font-family: 'Montserrat';
+            background-color: aquamarine;
+        }
+    </style>
+    <script>
+        const loc = window.location.href;
+        const path = loc.substr(0, loc.lastIndexOf('/') + 1);
+    </script>
+</head>
+<body>
+<h1>Aplicació per la gestió de tiquets menjador d’una escola</h1>
+<h2>Lucas Garrido Antolino</h2>
+<h3>DOSSIER</h3>
+
+<ul>
+    <li>Documentació</li>
+    <ul>
+        <li>Documents Originals</li>
+        <ul>
+            <li><a id="Gantt" href="#" target="_blank">Diagrama de gant.xlsx</a></li>
+            <li><a id="final1" href="#" target="_blank">Informe final v1.docx</a></li>
+            <li><a id="final2" href="#" target="_blank">Informe final v2.docx</a></li>
+            <li><a id="MySQLfinal" href="#" target="_blank">MYSQL Vista Final.mwb</a></li>
+            <li><a id="MySQLv1" href="#" target="_blank">MYSQL Vista V1.mwb</a></li>
+            <li><a id="inicial" href="#" target="_blank">TFG - Informe Inicial.docx</a></li>
+            <li><a id="progres1" href="#" target="_blank">TFG - Informe Progrés I.docx</a></li>
+            <li><a id="progres2" href="#" target="_blank">TFG - Informe Progrés II.docx</a></li>
+        </ul>
+        <li>Documents PDF</li>
+        <ul>
+            <li><a id="finalpdf" href="#" target="_blank">TFG - Informe Final.pdf</a></li>
+            <li><a id="inicialpdf" href="#" target="_blank">TFG - Informe Inicial.pdf</a></li>
+            <li><a id="progres1pdf" href="#" target="_blank">TFG - Informe Progrés I.pdf</a></li>
+            <li><a id="progres2pdf" href="#" target="_blank">TFG - Informe Progrés II.pdf</a></li>
+        </ul>
+        <li>Imatges</li>
+        <ul>
+            <li><a id="AC" href="#" target="_blank">Arbre de components.png</a></li>
+            <li><a id="BDD" href="#" target="_blank">Base_DDADES.png</a></li>
+            <li><a id="BDDF" href="#" target="_blank">Base_DDADES_FINAL.png</a></li>
+            <li><a id="Ganttpng" href="#" target="_blank">Diagrama de gantt.PNG</a></li>
+            <li><a id="trello1" href="#" target="_blank">Trello.png</a></li>
+            <li><a id="trello2" href="#" target="_blank">Trello_Final.png</a></li>
+
+        </ul>
+    </ul>
+    <li>Projecte</li>
+    <ul>
+        <li><a href="#" id="aplicacion" target="_blank">Codi de l'aplicació web</a></li>
+    </ul>
+</ul>
+
+<script>
+    document.getElementById("Gantt").setAttribute("href", path + "Documentació/Documents%20Originals/Diagrama%20de%20gantt.xlsx");
+    document.getElementById("final1").setAttribute("href", path + "Documentació/Documents%20Originals/Informe%20final%20v1.docx");
+    document.getElementById("final2").setAttribute("href", path + "Documentació/Documents%20Originals/Informe%20final%20v2.docx");
+    document.getElementById("MySQLfinal").setAttribute("href", path + "Documentació/Documents%20Originals/MYSQL%20Vista%20Final.mwb");
+    document.getElementById("MySQLv1").setAttribute("href", path + "Documentació/Documents%20Originals/MYSQL%20Vista%20V1.mwb");
+    document.getElementById("inicial").setAttribute("href", path + "Documentació/Documents%20Originals/TFG%20-%20Informe%20Inicial.docx");
+    document.getElementById("progres1").setAttribute("href", path + "Documentació/Documents%20Originals/TFG%20-%20Informe%20Progrés%20I.docx");
+    document.getElementById("progres2").setAttribute("href", path + "Documentació/Documents%20Originals/TFG%20-%20Informe%20Progrés%20II.docx");
+
+    document.getElementById("finalpdf").setAttribute("href", path + "Documentació/Documents%20PDF/TFG%20-%20Informe%20Final.pdf");
+    document.getElementById("inicialpdf").setAttribute("href", path + "Documentació/Documents%20PDF/TFG%20-%20Informe%20Inicial.pdf");
+    document.getElementById("progres1pdf").setAttribute("href", path + "Documentació/Documents%20PDF/TFG%20-%20Informe%20Progrés%20I.pdf");
+    document.getElementById("progres2pdf").setAttribute("href", path + "Documentació/Documents%20PDF/TFG%20-%20Informe%20Progrés%20II.pdf");
+
+    document.getElementById("AC").setAttribute("href", path + "Documentació/Imatges/Arbre%20de%20components.png");
+    document.getElementById("BDD").setAttribute("href", path + "Documentació/Imatges/Base_DDADES.PNG");
+    document.getElementById("BDDF").setAttribute("href", path + "Documentació/Imatges/Base_DDADES_FINAL.PNG");
+    document.getElementById("Ganttpng").setAttribute("href", path + "Documentació/Imatges/Diagrama%20de%20gantt.PNG");
+    document.getElementById("trello1").setAttribute("href", path + "Documentació/Imatges/trello.png");
+    document.getElementById("trello2").setAttribute("href", path + "Documentació/Imatges/Trello_Final.PNG");
+
+    document.getElementById("aplicacion").setAttribute("href", path + "Projecte/aplicacion");
+
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4391e5a-d5fa-42e7-89ba-aedf7359196b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1pUNhTGGpzpTvIEOEr4yqr4zFmS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v14.15.0-win-x64/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\TFG\Projecte\aplicacion\src\Components" />
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\TFG\Projecte\aplicacion" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\TFG\Projecte\aplicacion\src\Components" />
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\TFG\Projecte\aplicacion\src\Consultas" />
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\TFG\Projecte\aplicacion\src\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="ConnectaBD.php" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Consultas/ConnectaBD.php" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="Header.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Components/Header.js" working-dir="$PROJECT_DIR$/src/Components">
+      <method v="2" />
+    </configuration>
+    <configuration name="IniciaSessio.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/Consultas/IniciaSessio.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="intall" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="intall" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.intall" />
+        <item itemvalue="Node.js.Header.js" />
+        <item itemvalue="PHP Script.IniciaSessio.php" />
+        <item itemvalue="Node.js.ConnectaBD.php" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4391e5a-d5fa-42e7-89ba-aedf7359196b" name="Default Changelist" comment="" />
+      <created>1615233827430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615233827430</updated>
+      <workItem from="1615233828620" duration="817000" />
+      <workItem from="1615304090863" duration="4146000" />
+      <workItem from="1615327531654" duration="5014000" />
+      <workItem from="1615377919492" duration="6572000" />
+      <workItem from="1615391149745" duration="8782000" />
+      <workItem from="1615502501982" duration="6954000" />
+      <workItem from="1615569127930" duration="7930000" />
+      <workItem from="1615630164317" duration="4419000" />
+      <workItem from="1615755366779" duration="3026000" />
+      <workItem from="1615922599625" duration="6320000" />
+      <workItem from="1616005013555" duration="7808000" />
+      <workItem from="1616079132868" duration="16094000" />
+      <workItem from="1616256040266" duration="6664000" />
+      <workItem from="1616342103993" duration="11618000" />
+      <workItem from="1616361521749" duration="9429000" />
+      <workItem from="1616434400594" duration="10389000" />
+      <workItem from="1616509185545" duration="16981000" />
+      <workItem from="1616688514914" duration="15017000" />
+      <workItem from="1616764377375" duration="1177000" />
+      <workItem from="1616865385289" duration="4632000" />
+      <workItem from="1616926303771" duration="5415000" />
+      <workItem from="1616965373876" duration="4332000" />
+      <workItem from="1617027175022" duration="12663000" />
+      <workItem from="1617047440964" duration="11572000" />
+      <workItem from="1617126427719" duration="7615000" />
+      <workItem from="1617213169237" duration="5409000" />
+      <workItem from="1617382381723" duration="13323000" />
+      <workItem from="1617474331051" duration="10860000" />
+      <workItem from="1617553918630" duration="9304000" />
+      <workItem from="1617616917621" duration="969000" />
+      <workItem from="1617647033511" duration="8874000" />
+      <workItem from="1617718379309" duration="5882000" />
+      <workItem from="1617732849826" duration="10188000" />
+      <workItem from="1617811010635" duration="10384000" />
+      <workItem from="1617892353900" duration="4678000" />
+      <workItem from="1617907897552" duration="10461000" />
+      <workItem from="1617981817162" duration="4550000" />
+      <workItem from="1618081347494" duration="3154000" />
+      <workItem from="1618149010267" duration="15814000" />
+      <workItem from="1618235930591" duration="1369000" />
+      <workItem from="1618246558214" duration="12109000" />
+      <workItem from="1618316092959" duration="18858000" />
+      <workItem from="1618414961903" duration="4425000" />
+      <workItem from="1618510292274" duration="7453000" />
+      <workItem from="1618584111448" duration="9435000" />
+      <workItem from="1618736385686" duration="5000" />
+      <workItem from="1618768601722" duration="1947000" />
+      <workItem from="1618905388526" duration="1575000" />
+      <workItem from="1619028031420" duration="5822000" />
+      <workItem from="1619113651601" duration="5766000" />
+      <workItem from="1619188951454" duration="4190000" />
+      <workItem from="1619447398909" duration="9805000" />
+      <workItem from="1619548665478" duration="4643000" />
+      <workItem from="1619637875238" duration="12078000" />
+      <workItem from="1619722020821" duration="4443000" />
+      <workItem from="1619792180727" duration="13596000" />
+      <workItem from="1620051595487" duration="3054000" />
+      <workItem from="1620121728677" duration="3912000" />
+      <workItem from="1620209534370" duration="9927000" />
+      <workItem from="1620323926532" duration="1638000" />
+      <workItem from="1620552928782" duration="5029000" />
+      <workItem from="1620577447261" duration="9363000" />
+      <workItem from="1620663357155" duration="5377000" />
+      <workItem from="1620750043723" duration="1112000" />
+      <workItem from="1620832447733" duration="3661000" />
+      <workItem from="1620923169976" duration="11532000" />
+      <workItem from="1621187380643" duration="1568000" />
+      <workItem from="1621251869393" duration="1473000" />
+      <workItem from="1621349331587" duration="10522000" />
+      <workItem from="1621455578695" duration="1220000" />
+      <workItem from="1621521561618" duration="38000" />
+      <workItem from="1621522759981" duration="8693000" />
+      <workItem from="1621619501662" duration="1887000" />
+      <workItem from="1621765369589" duration="11300000" />
+      <workItem from="1621887233732" duration="4929000" />
+      <workItem from="1621932797504" duration="14097000" />
+      <workItem from="1622132442902" duration="1340000" />
+      <workItem from="1622148156491" duration="599000" />
+      <workItem from="1622296199569" duration="3618000" />
+      <workItem from="1622395999680" duration="599000" />
+      <workItem from="1622491124713" duration="4578000" />
+      <workItem from="1622884975343" duration="16957000" />
+      <workItem from="1622995273559" duration="4572000" />
+      <workItem from="1624136399050" duration="1577000" />
+      <workItem from="1624179499192" duration="602000" />
+      <workItem from="1624206256594" duration="2243000" />
+      <workItem from="1624457612950" duration="327000" />
+      <workItem from="1624565705339" duration="31000" />
+      <workItem from="1624820968989" duration="1431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

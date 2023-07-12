@@ -1,0 +1,17 @@
+.PopupCompra h4{
+    text-align: left;
+    font-weight: unset;
+    font-size: 20px;
+}
+
+.PopupCompra .Disponible{
+    color: aquamarine;
+}
+
+.PopupCompra .Afegir{
+    color: #ce33ff;
+}
+
+.PopupCompra .Total{
+    color: orangered;
+}

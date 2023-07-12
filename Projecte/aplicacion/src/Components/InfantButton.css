@@ -1,0 +1,7 @@
+
+@media (max-width: 500px) {
+    .InfantButton button{
+        font-size: 12px;
+        width: 100px;
+    }
+}
